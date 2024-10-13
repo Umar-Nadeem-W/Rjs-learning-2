@@ -8,6 +8,8 @@ function App() {
       else if(action.type == "decrement"){return redstate- action.payload}
       
   }
+  //check for github
+  
 
   return (
     <div>
